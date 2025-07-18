@@ -251,9 +251,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions or support, please reach out to:
 
-- **Email**: contact@gemutly.com
-- **Website**: [gemutly.com](https://gemutly.com)
+- **Email**: jidioseph@gmail.com
+- **Website**: [jidioseph.com](https://jidioseph.com)
 
 ---
 
-**Built with ❤️ for the culinary community**
+**Built with ❤️ for the culinary community by Jonathan Idioseph**

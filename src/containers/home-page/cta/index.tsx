@@ -153,7 +153,7 @@ const CTASection = () => {
                 className="text-gray-700 mb-6 text-lg"
                 style={{ fontFamily: inter.style.fontFamily }}
               >
-                Have questions? We're here to help!
+                Have questions? We&apos;re here to help!
               </p>
               <Button
                 variant="outline"

@@ -64,7 +64,7 @@ const CommunitySection = () => {
       name: "Chef Maria",
       cuisine: "Mediterranean",
       rating: 5,
-      text: "I love the flexibility and the direct connection with my customers. It's like having a family dinner every night!",
+      text: "I love the flexibility and the direct connection with my customers. It&apos;s like having a family dinner every night!",
       avatar: "👩‍🍳",
     },
   ];
@@ -197,7 +197,7 @@ const CommunitySection = () => {
                     className="text-sm md:text-base text-gray-600 leading-relaxed"
                     style={{ fontFamily: inter.style.fontFamily }}
                   >
-                    "{testimonial.text}"
+                    &ldquo;{testimonial.text}&rdquo;
                   </p>
 
                   {/* Author */}
@@ -237,9 +237,9 @@ const CommunitySection = () => {
               className="text-base md:text-lg text-gray-600 mb-6 md:mb-8 max-w-2xl mx-auto"
               style={{ fontFamily: inter.style.fontFamily }}
             >
-              Whether you're a chef looking to share your passion or a diner
-              seeking unique experiences, we'd love to have you join our
-              culinary family.
+              Whether you&apos;re a chef looking to share your passion or a
+              diner seeking unique experiences, we&apos;d love to have you join
+              our culinary family.
             </p>
             <div className="flex flex-wrap justify-center gap-3 md:gap-4">
               <Button

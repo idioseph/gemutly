@@ -89,9 +89,9 @@ const ForDiners = () => {
                     className="text-gray-600 mb-4"
                     style={{ fontFamily: inter.style.fontFamily }}
                   >
-                    "The intimate setting and personalized menu made our
-                    anniversary unforgettable. Chef Marco's authentic Italian
-                    dishes transported us straight to Tuscany!"
+                    &ldquo;The intimate setting and personalized menu made our
+                    anniversary unforgettable. Chef Marco&apos;s authentic
+                    Italian dishes transported us straight to Tuscany!&rdquo;
                   </p>
                   <div className="flex items-center justify-center gap-2">
                     <div className="flex">
