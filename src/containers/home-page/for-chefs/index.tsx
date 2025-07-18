@@ -17,7 +17,7 @@ const ForChefs = () => {
       title: "Flexible Schedule",
       description:
         "Choose your own hours and work when it suits your lifestyle.",
-      icon: <Clock className="w-6 h-6" />,
+      icon: <Clock className="w-6 h-6 text-black" />,
       color: "from-amber-100 to-orange-100",
       borderColor: "border-amber-200",
     },
@@ -26,7 +26,7 @@ const ForChefs = () => {
       title: "Higher Earnings",
       description:
         "Keep more of your profits with our transparent fee structure.",
-      icon: <DollarSign className="w-6 h-6" />,
+      icon: <DollarSign className="w-6 h-6 text-black" />,
       color: "from-emerald-100 to-teal-100",
       borderColor: "border-emerald-200",
     },
@@ -35,7 +35,7 @@ const ForChefs = () => {
       title: "Build Your Brand",
       description:
         "Showcase your culinary skills and build a loyal customer base.",
-      icon: <Star className="w-6 h-6" />,
+      icon: <Star className="w-6 h-6 text-black" />,
       color: "from-violet-100 to-purple-100",
       borderColor: "border-violet-200",
     },
@@ -43,7 +43,7 @@ const ForChefs = () => {
       id: 4,
       title: "Direct Connection",
       description: "Connect directly with diners who appreciate your craft.",
-      icon: <Handshake className="w-6 h-6" />,
+      icon: <Handshake className="w-6 h-6 text-black" />,
       color: "from-rose-100 to-pink-100",
       borderColor: "border-rose-200",
     },

@@ -33,7 +33,7 @@ const HeroSection = () => {
       name: "Chef Alex",
       specialty: "Asian Fusion",
       image:
-        "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=150&h=150&fit=crop&crop=face",
+        "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?w=150&h=150&fit=crop&crop=face",
     },
     {
       id: 4,
@@ -50,14 +50,14 @@ const HeroSection = () => {
       name: "Homemade Pasta",
       chef: "Chef Marco",
       image:
-        "https://images.unsplash.com/photo-1621996346565-e3dbc353d2e5?w=150&h=150&fit=crop",
+        "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=150&h=150&fit=crop",
     },
     {
       id: 2,
       name: "Seafood Paella",
       chef: "Chef Maria",
       image:
-        "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=150&h=150&fit=crop",
+        "https://images.unsplash.com/photo-1565958011703-44f9829ba187?w=150&h=150&fit=crop",
     },
     {
       id: 3,
@@ -81,7 +81,7 @@ const HeroSection = () => {
       id: 1,
       name: "Sarah M.",
       image:
-        "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=80&h=80&fit=crop&crop=face",
+        "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?w=80&h=80&fit=crop&crop=face",
     },
     {
       id: 2,
@@ -249,7 +249,7 @@ const HeroSection = () => {
             className="relative mt-8 lg:mt-0 px-4 md:px-0"
           >
             <div className="relative">
-              <div className="grid grid-cols-2 gap-4 md:gap-6 lg:gap-8">
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-4 md:gap-6 lg:gap-8">
                 {/* Chef Section */}
                 <div className="space-y-4 md:space-y-6">
                   <h3
